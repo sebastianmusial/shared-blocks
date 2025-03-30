@@ -1,0 +1,23 @@
+.simple-banner {
+  padding: 20px;
+  text-align: center;
+
+  &.active {
+    background-color: #c9f1ba;
+    border: 1px solid #457037;
+  }
+
+  h2 {
+    color: #0073aa;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  p {
+    color: #333;
+  }
+
+  img {
+    max-width: 100px;
+  }
+}

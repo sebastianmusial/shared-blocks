@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll(".simple-banner").forEach((e=>{e.addEventListener("click",(()=>{e.classList.toggle("active")}))}))}));
